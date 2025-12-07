@@ -20,7 +20,7 @@ public class StringUtil {
     } 
 
 	public int showLength(String str) {
-		return str.length(); // gives the length of the String
+		return str.length(); // gives the length of the String // gives the no.of characters in the String
 	}
 	
 	
