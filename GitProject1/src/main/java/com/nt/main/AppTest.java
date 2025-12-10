@@ -18,7 +18,7 @@ public class AppTest {
 		System.out.println(upip.doUPIPaymentByAcno(999999999L, 20000.0f));
 		System.out.println("============");
 		NetBankingServices service=new NetBankingServices();
-		String msg=service.transferMoney(454555L, 4555454L, 5455.0f);
+		String msg=service.transferMoney(454555L, 4555454L, 5455.0f,"RTGS");
 		System.out.println(msg);
 	}
 }
