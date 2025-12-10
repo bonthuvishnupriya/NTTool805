@@ -1,4 +1,4 @@
-package com.nt.main;
+package nit.GitProject1;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

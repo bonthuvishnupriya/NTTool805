@@ -1,4 +1,4 @@
-package com.nt.main;
+package nit.GitProject1;
 
 /**
  * Hello world!

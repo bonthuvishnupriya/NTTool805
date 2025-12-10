@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>nit</groupId>
-  <artifactId>GitProj01</artifactId>
+  <artifactId>GitProject1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>GitProj01</name>
+  <name>GitProject1</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
