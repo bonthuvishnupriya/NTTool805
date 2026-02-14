@@ -23,6 +23,6 @@ public class StringUtil {
 		return str.length(); // gives the length of the String content and gives the no.of characters in the String
 	}
 	
-	
+	System.out.println("Hello world");
 }
 
